@@ -18,6 +18,10 @@ Must loose the mount screws of Z Idler while you are tensing Z belts.
 
 
 
+### Errata
+
+1.The M3x36 SHCS for AB Idler maybe a little longer than 36mm, if this happened you have to use M3x35 instead of it or shorten it a little.
+
 
 
 
