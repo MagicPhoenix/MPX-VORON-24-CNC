@@ -10,8 +10,6 @@ Please follow the following instruction when installing the Z tensioner & Z idle
 4. adjust the z belt tension until it is good.
 5. tighten the screw on step 1.
 
-when you want to adjust Z tensioner , please follow step 1-5
-
 
 
 ### Printed Parts Need:
@@ -23,7 +21,7 @@ The kit does not include the following parts:
 
 You will have to use the same printed part from a standard Voron 2.4.
 
-You also need print this to mount Z chain.
+This part is used to mount z chain so you may need to print it by yourself.
 
 https://github.com/MagicPhoenix/MPX-VORON-24-CNC/blob/main/Printed%20Parts/Z_Chain_Mount_3_Hole.stl 
 
