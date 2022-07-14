@@ -10,7 +10,7 @@ Please follow the following instruction when installing the Z tensioner & Z idle
 4. adjust the z belt tension until it is good.
 5. tighten the screw on step 1.
 
-when you want to adjust Z tensioner , pls follow step 1-5
+when you want to adjust Z tensioner , please follow step 1-5
 
 
 
