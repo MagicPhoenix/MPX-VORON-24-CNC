@@ -23,7 +23,7 @@ You will have to use the same printed part from a standard Voron 2.4.
 
 This part is used to mount z chain so you may need to print it by yourself.
 
-https://github.com/MagicPhoenix/MPX-VORON-24-CNC/blob/main/Printed%20Parts/Z_Chain_Mount_3_Hole.stl 
+https://github.com/MagicPhoenix/MPX-VORON-24-CNC/blob/main/STLs/Z_Chain_Mount_3_Hole.stl
 
 
 
